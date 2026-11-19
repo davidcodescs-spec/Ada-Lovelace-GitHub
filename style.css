@@ -1,7 +1,32 @@
 body {
-  background-color: lightblue;
+  background-color: black;
+  font-family: Georgia, serif;
+}
+
+.container {
+  background-color: Green;
+  margin: 30px;
+  padding: 15px;
 }
 
 h1 {
-  color: darkblue;
+  color: yellow;
+  text-align: center;
+}
+
+h3 {
+  color: black;
+}
+
+p {
+  color: black;
+}
+
+hr {
+  border: 1px solid white;
+}
+
+img {
+  width: 100px;
+  height: 100px;
 }
